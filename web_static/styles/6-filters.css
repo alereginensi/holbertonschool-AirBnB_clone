@@ -2,7 +2,7 @@ section.filters{
     background-color: white;
     height: 70px;
     width: 100%;
-    border: 1px #DDDDDD;
+    border: 1px solid #DDDDDD;
     border-radius: 4px;
     align-items: center;
     display: flex;
@@ -29,7 +29,7 @@ section.filters{
     padding-left: 48px;
 }
 filters div.locations{
-    border-right: #DDDDDD 1px;
+    border-right: #DDDDDD solid 1px;
 }
 filters div.locations h3,
 filters div.amenities h3 {
